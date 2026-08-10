@@ -27,7 +27,8 @@ Employees_Dataset/
 ├── 04_exists/
 ├── 05_date_time/
 ├── 06_case/
-└── 07_advanced/
+├── 07_window_functions/
+└── 08_cte/
 ```
 
 A problem may use multiple SQL concepts, but it is placed according to the main technique being practiced.
